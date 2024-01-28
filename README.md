@@ -1,6 +1,8 @@
 # AdminPad
 Application launch pad (to be run as admin or other users)
 
+![image](https://github.com/therksius/AdminPad/assets/52346746/b2ec539e-31c6-4489-9512-d5b4da17ea74)
+
 ## Version history
 
 ### 3.2.0.0
